@@ -1,8 +1,8 @@
-#Simple Github Client
+# Simple Github Client
 
 Github Client (basic) demonstrating how to organize files and folders in python.
 
-#To run
+# To run
 
 python main.py
 NOTE: this is meant to be run via REPL
